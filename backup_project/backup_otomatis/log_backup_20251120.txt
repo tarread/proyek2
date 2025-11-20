@@ -1,0 +1,31 @@
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Ditemukan 2 file untuk di backup.
+Membuat dan mengompres file: backup_20251120_211857.tar.gz
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+--- Status akhir backup: BERHASIL ---
+backup selesai pada: 20251120_211857
+Ukuran file: 4.0K
+---
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Ditemukan 2 file untuk di backup.
+Membuat dan mengompres file: backup_20251120_211920.tar.gz
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+--- Status akhir backup: BERHASIL ---
+backup selesai pada: 20251120_211921
+Ukuran file: 4.0K
+---
+Mencari file di: /home/lestarytirta/proyek2/backup_project/data_penting
+Ditemukan 2 file untuk di backup.
+Membuat dan mengompres file: backup_20251120_214303.tar.gz
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+--- Status akhir backup: BERHASIL ---
+backup selesai pada: 20251120_214303
+Ukuran file: 4.0K
+---
